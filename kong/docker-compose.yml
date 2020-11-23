@@ -114,3 +114,4 @@ services:
       - kong-database
     ports:
       - "1337:1337"
+      - 8500:8080
